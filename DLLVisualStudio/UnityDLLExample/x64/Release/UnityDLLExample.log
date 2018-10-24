@@ -1,0 +1,7 @@
+﻿  UnityDLLExample.cpp
+     Creating library C:\Users\CDS\Documents\mikeandcharlie\DLLVisualStudio\x64\Release\UnityDLLExample.lib and object C:\Users\CDS\Documents\mikeandcharlie\DLLVisualStudio\x64\Release\UnityDLLExample.exp
+  Generating code
+c:\users\cds\documents\mikeandcharlie\dllvisualstudio\unitydllexample\unitydllexample.cpp(390): warning C4700: uninitialized local variable 'tstep_squared' used
+  All 23 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  UnityDLLExample.vcxproj -> C:\Users\CDS\Documents\mikeandcharlie\DLLVisualStudio\x64\Release\UnityDLLExample.dll
